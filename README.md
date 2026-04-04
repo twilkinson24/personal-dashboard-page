@@ -43,14 +43,18 @@ npm run dev
    | Variable | Value |
    |---|---|
    | `FINNHUB_API_KEY` | Your key from [finnhub.io](https://finnhub.io/) |
+   | `DASHBOARD_PASSWORD` | A password of your choice (protects the site with HTTP Basic Auth) |
+
+   > If `DASHBOARD_PASSWORD` is not set, the site will be publicly accessible.
 5. Deploy. The Pages Function in `functions/api/stocks.js` is picked up automatically.
 
 ## Project Structure
 
 ```
 ├── functions/
+│   ├── _middleware.js           # Basic Auth password protection
 │   └── api/
-│       └── stocks.js        # Cloudflare Pages Function (Finnhub proxy)
+│       └── stocks.js            # Cloudflare Pages Function (Finnhub proxy)
 ├── src/
 │   ├── App.jsx
 │   ├── main.jsx
