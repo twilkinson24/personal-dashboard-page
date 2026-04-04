@@ -1,0 +1,1289 @@
+{
+  "spanish": [
+    {
+      "phrase": "No hay mal que por bien no venga.",
+      "type": "refrán",
+      "note": "Every cloud has a silver lining — but more fatalistic."
+    },
+    {
+      "phrase": "El que mucho abarca, poco aprieta.",
+      "type": "refrán",
+      "note": "Jack of all trades, master of none."
+    },
+    {
+      "phrase": "A palabras necias, oídos sordos.",
+      "type": "refrán",
+      "note": "Don't dignify foolishness with a response."
+    },
+    {
+      "phrase": "Más sabe el diablo por viejo que por diablo.",
+      "type": "refrán",
+      "note": "Experience trumps innate ability."
+    },
+    {
+      "phrase": "En boca cerrada no entran moscas.",
+      "type": "refrán",
+      "note": "Silence protects you from trouble."
+    },
+    {
+      "phrase": "No hay peor ciego que el que no quiere ver.",
+      "type": "refrán",
+      "note": "Willful ignorance is the worst kind."
+    },
+    {
+      "phrase": "Cría cuervos y te sacarán los ojos.",
+      "type": "refrán",
+      "note": "Ingratitude from those you've helped."
+    },
+    {
+      "phrase": "El que nace para tamal, del cielo le caen las hojas.",
+      "type": "dicho mexicano",
+      "note": "Fatalistic — some are destined for certain paths."
+    },
+    {
+      "phrase": "Agua que no has de beber, déjala correr.",
+      "type": "refrán",
+      "note": "Don't meddle in what doesn't concern you."
+    },
+    {
+      "phrase": "A falta de pan, tortillas.",
+      "type": "dicho mexicano",
+      "note": "Make do with what you have."
+    },
+    {
+      "phrase": "Del dicho al hecho hay mucho trecho.",
+      "type": "refrán",
+      "note": "Actions speak louder than words."
+    },
+    {
+      "phrase": "No hay quinto malo.",
+      "type": "dicho mexicano",
+      "note": "The fifth drink is never a bad idea (ironic drinking culture reference)."
+    },
+    {
+      "phrase": "El que con lobos anda, a aullar se enseña.",
+      "type": "refrán",
+      "note": "You become like the company you keep."
+    },
+    {
+      "phrase": "Cuando el río suena, agua lleva.",
+      "type": "refrán",
+      "note": "Where there's smoke, there's fire."
+    },
+    {
+      "phrase": "Camarón que se duerme, se lo lleva la corriente.",
+      "type": "refrán",
+      "note": "Stay alert or get left behind."
+    },
+    {
+      "phrase": "Al mal tiempo, buena cara.",
+      "type": "refrán",
+      "note": "Keep your chin up in hard times."
+    },
+    {
+      "phrase": "El que es perico, donde quiera es verde.",
+      "type": "dicho mexicano",
+      "note": "Talent shows regardless of circumstance."
+    },
+    {
+      "phrase": "Más vale tarde que nunca, pero más vale nunca tarde.",
+      "type": "refrán",
+      "note": "A twist on the classic — punctuality matters."
+    },
+    {
+      "phrase": "Lo que no te mata, te fortalece... o te deja traumado.",
+      "type": "dicho moderno",
+      "note": "Modern dark humor spin on Nietzsche."
+    },
+    {
+      "phrase": "El flojo trabaja doble.",
+      "type": "refrán",
+      "note": "Cutting corners creates more work."
+    },
+    {
+      "phrase": "Dime con quién andas y te diré quién eres.",
+      "type": "refrán",
+      "note": "You're judged by the company you keep."
+    },
+    {
+      "phrase": "El que no transa, no avanza.",
+      "type": "dicho mexicano",
+      "note": "Cynical commentary on corruption — 'if you don't cheat, you don't advance.'"
+    },
+    {
+      "phrase": "Ahogarse en un vaso de agua.",
+      "type": "expresión",
+      "note": "To make a mountain out of a molehill."
+    },
+    {
+      "phrase": "Estar entre la espada y la pared.",
+      "type": "expresión",
+      "note": "Between a rock and a hard place."
+    },
+    {
+      "phrase": "No tiene ni pies ni cabeza.",
+      "type": "expresión",
+      "note": "It makes no sense whatsoever."
+    },
+    {
+      "phrase": "Meter la pata.",
+      "type": "expresión",
+      "note": "To screw up, put your foot in your mouth."
+    },
+    {
+      "phrase": "Tomar el pelo.",
+      "type": "expresión",
+      "note": "To pull someone's leg, mess with them."
+    },
+    {
+      "phrase": "Ser pan comido.",
+      "type": "expresión",
+      "note": "To be a piece of cake."
+    },
+    {
+      "phrase": "Estar en las nubes.",
+      "type": "expresión",
+      "note": "To be distracted, head in the clouds."
+    },
+    {
+      "phrase": "Tirar la toalla.",
+      "type": "expresión",
+      "note": "To throw in the towel."
+    },
+    {
+      "phrase": "Dorar la píldora.",
+      "type": "expresión",
+      "note": "To sugarcoat something unpleasant."
+    },
+    {
+      "phrase": "No tener pelos en la lengua.",
+      "type": "expresión",
+      "note": "To speak bluntly, not mince words."
+    },
+    {
+      "phrase": "Quedarse con los brazos cruzados.",
+      "type": "expresión",
+      "note": "To stand idly by, do nothing."
+    },
+    {
+      "phrase": "Dar en el clavo.",
+      "type": "expresión",
+      "note": "To hit the nail on the head."
+    },
+    {
+      "phrase": "Buscarle tres pies al gato.",
+      "type": "expresión",
+      "note": "To overcomplicate things, look for trouble."
+    },
+    {
+      "phrase": "Echarle mucha crema a los tacos.",
+      "type": "dicho mexicano",
+      "note": "To exaggerate, brag excessively."
+    },
+    {
+      "phrase": "Hacerse de la vista gorda.",
+      "type": "expresión",
+      "note": "To turn a blind eye."
+    },
+    {
+      "phrase": "Ser uña y carne.",
+      "type": "expresión",
+      "note": "To be inseparable, thick as thieves."
+    },
+    {
+      "phrase": "Ponerse las pilas.",
+      "type": "expresión",
+      "note": "To get one's act together, focus up."
+    },
+    {
+      "phrase": "No hay tu tía.",
+      "type": "expresión",
+      "note": "There's no way around it, no alternative."
+    },
+    {
+      "phrase": "Estar como agua para chocolate.",
+      "type": "dicho mexicano",
+      "note": "To be boiling with rage (or passion)."
+    },
+    {
+      "phrase": "Ya ni la amuela.",
+      "type": "dicho mexicano",
+      "note": "That's the last straw / unbelievable."
+    },
+    {
+      "phrase": "Chingar es un verbo que se conjuga en todos los tiempos.",
+      "type": "dicho mexicano",
+      "note": "Meta-commentary on Mexico's most versatile word."
+    },
+    {
+      "phrase": "El que nada debe, nada teme.",
+      "type": "refrán",
+      "note": "A clear conscience fears nothing."
+    },
+    {
+      "phrase": "A otro perro con ese hueso.",
+      "type": "expresión",
+      "note": "Tell that to someone who'll believe it."
+    },
+    {
+      "phrase": "Dar gato por liebre.",
+      "type": "expresión",
+      "note": "To deceive, pass off something inferior."
+    },
+    {
+      "phrase": "Salir el tiro por la culata.",
+      "type": "expresión",
+      "note": "For a plan to backfire."
+    },
+    {
+      "phrase": "Más vale maña que fuerza.",
+      "type": "refrán",
+      "note": "Brain over brawn."
+    },
+    {
+      "phrase": "El que tiene tienda, que la atienda.",
+      "type": "refrán",
+      "note": "Take care of your responsibilities."
+    },
+    {
+      "phrase": "Éramos muchos y parió la abuela.",
+      "type": "expresión",
+      "note": "Just when we thought it couldn't get worse."
+    },
+    {
+      "phrase": "Cada cabeza es un mundo.",
+      "type": "refrán",
+      "note": "Everyone sees things differently."
+    },
+    {
+      "phrase": "De tal palo, tal astilla.",
+      "type": "refrán",
+      "note": "Like father, like son."
+    },
+    {
+      "phrase": "El que mucho se despide, pocas ganas tiene de irse.",
+      "type": "refrán",
+      "note": "Long goodbyes reveal reluctance to leave."
+    },
+    {
+      "phrase": "En casa del herrero, cuchillo de palo.",
+      "type": "refrán",
+      "note": "The cobbler's children have no shoes."
+    },
+    {
+      "phrase": "La curiosidad mató al gato, pero murió sabiendo.",
+      "type": "dicho moderno",
+      "note": "Modern twist — at least the cat learned something."
+    },
+    {
+      "phrase": "Más vale solo que mal acompañado.",
+      "type": "refrán",
+      "note": "Better alone than in bad company."
+    },
+    {
+      "phrase": "Perro que ladra no muerde.",
+      "type": "refrán",
+      "note": "All bark and no bite."
+    },
+    {
+      "phrase": "Quien siembra vientos, cosecha tempestades.",
+      "type": "refrán",
+      "note": "You reap what you sow."
+    },
+    {
+      "phrase": "A rey muerto, rey puesto.",
+      "type": "refrán",
+      "note": "Everyone is replaceable."
+    },
+    {
+      "phrase": "Mucho ruido y pocas nueces.",
+      "type": "expresión",
+      "note": "Much ado about nothing."
+    },
+    {
+      "phrase": "Las cuentas claras y el chocolate espeso.",
+      "type": "dicho mexicano",
+      "note": "Keep finances clear between friends."
+    },
+    {
+      "phrase": "Al pan, pan, y al vino, vino.",
+      "type": "expresión",
+      "note": "Call a spade a spade."
+    },
+    {
+      "phrase": "Ni tanto que queme al santo, ni tanto que no lo alumbre.",
+      "type": "refrán",
+      "note": "Everything in moderation."
+    },
+    {
+      "phrase": "El que paga, manda.",
+      "type": "refrán",
+      "note": "He who pays the piper calls the tune."
+    },
+    {
+      "phrase": "Ojos que no ven, corazón que no siente.",
+      "type": "refrán",
+      "note": "Out of sight, out of mind."
+    },
+    {
+      "phrase": "Lo barato sale caro.",
+      "type": "refrán",
+      "note": "You get what you pay for."
+    },
+    {
+      "phrase": "A caballo regalado no se le miran los dientes.",
+      "type": "refrán",
+      "note": "Don't look a gift horse in the mouth."
+    },
+    {
+      "phrase": "El tiempo pone a cada quien en su lugar.",
+      "type": "refrán",
+      "note": "Time reveals everyone's true character."
+    },
+    {
+      "phrase": "No hay fecha que no se llegue ni plazo que no se cumpla.",
+      "type": "refrán",
+      "note": "Every deadline arrives eventually."
+    },
+    {
+      "phrase": "Una golondrina no hace verano.",
+      "type": "refrán",
+      "note": "One swallow doesn't make a summer — don't jump to conclusions."
+    },
+    {
+      "phrase": "Después de la tormenta viene la calma.",
+      "type": "refrán",
+      "note": "The storm always passes."
+    },
+    {
+      "phrase": "No dejes para mañana lo que puedes hacer hoy.",
+      "type": "refrán",
+      "note": "Don't procrastinate."
+    },
+    {
+      "phrase": "Haz bien y no mires a quién.",
+      "type": "refrán",
+      "note": "Do good without expecting recognition."
+    },
+    {
+      "phrase": "El mundo es un pañuelo.",
+      "type": "expresión",
+      "note": "It's a small world."
+    },
+    {
+      "phrase": "Entre broma y broma, la verdad se asoma.",
+      "type": "refrán",
+      "note": "Many a true word is spoken in jest."
+    },
+    {
+      "phrase": "El muerto al pozo y el vivo al gozo.",
+      "type": "refrán",
+      "note": "Life goes on — darkly pragmatic."
+    },
+    {
+      "phrase": "La vida no es como la pintan.",
+      "type": "expresión",
+      "note": "Life isn't what they make it out to be."
+    },
+    {
+      "phrase": "Lo que bien se aprende, nunca se olvida.",
+      "type": "refrán",
+      "note": "What's learned well is never forgotten."
+    },
+    {
+      "phrase": "De noche todos los gatos son pardos.",
+      "type": "refrán",
+      "note": "In darkness, distinctions disappear — used for moral ambiguity."
+    },
+    {
+      "phrase": "Candil de la calle, oscuridad de su casa.",
+      "type": "refrán",
+      "note": "Generous outside, neglectful at home."
+    },
+    {
+      "phrase": "El hábito no hace al monje.",
+      "type": "refrán",
+      "note": "Don't judge by appearances."
+    },
+    {
+      "phrase": "Hierba mala nunca muere.",
+      "type": "refrán",
+      "note": "Bad weeds never die — often said self-deprecatingly."
+    },
+    {
+      "phrase": "La esperanza es lo último que se pierde.",
+      "type": "refrán",
+      "note": "Hope dies last."
+    },
+    {
+      "phrase": "Sobre gustos no hay nada escrito.",
+      "type": "refrán",
+      "note": "There's no accounting for taste."
+    },
+    {
+      "phrase": "El amor entra por la cocina.",
+      "type": "refrán",
+      "note": "The way to the heart is through the stomach."
+    },
+    {
+      "phrase": "Cuentas claras, amistades largas.",
+      "type": "refrán",
+      "note": "Clear accounts make lasting friendships."
+    },
+    {
+      "phrase": "Más vale prevenir que lamentar.",
+      "type": "refrán",
+      "note": "Better safe than sorry."
+    },
+    {
+      "phrase": "La práctica hace al maestro.",
+      "type": "refrán",
+      "note": "Practice makes perfect."
+    },
+    {
+      "phrase": "A quien madruga, Dios le ayuda.",
+      "type": "refrán",
+      "note": "The early bird catches the worm."
+    },
+    {
+      "phrase": "No es lo mismo hablar de toros que estar en el ruedo.",
+      "type": "expresión",
+      "note": "It's easy to talk, harder to do."
+    },
+    {
+      "phrase": "La letra con sangre entra.",
+      "type": "refrán",
+      "note": "Old saying about harsh discipline in learning — now used critically."
+    },
+    {
+      "phrase": "A lo hecho, pecho.",
+      "type": "refrán",
+      "note": "Face the consequences of your actions."
+    },
+    {
+      "phrase": "Dios los cría y ellos se juntan.",
+      "type": "refrán",
+      "note": "Birds of a feather flock together."
+    },
+    {
+      "phrase": "El que ríe al último, ríe mejor.",
+      "type": "refrán",
+      "note": "He who laughs last, laughs best."
+    },
+    {
+      "phrase": "Más vale pájaro en mano que cien volando.",
+      "type": "refrán",
+      "note": "A bird in the hand is worth two in the bush."
+    },
+    {
+      "phrase": "Genio y figura hasta la sepultura.",
+      "type": "refrán",
+      "note": "A leopard can't change its spots."
+    },
+    {
+      "phrase": "No hay rosas sin espinas.",
+      "type": "refrán",
+      "note": "Every rose has its thorn."
+    }
+  ],
+  "italian": [
+    {
+      "phrase": "Come ti chiami?",
+      "context": "meeting someone"
+    },
+    {
+      "phrase": "Piacere di conoscerti.",
+      "context": "meeting someone"
+    },
+    {
+      "phrase": "Di dove sei?",
+      "context": "asking origin"
+    },
+    {
+      "phrase": "Sono di Chicago, ma abito in Messico.",
+      "context": "describing where you live"
+    },
+    {
+      "phrase": "Quanto costa questo?",
+      "context": "shopping"
+    },
+    {
+      "phrase": "È troppo caro per me.",
+      "context": "shopping"
+    },
+    {
+      "phrase": "Posso pagare con la carta?",
+      "context": "shopping"
+    },
+    {
+      "phrase": "Vorrei un caffè, per favore.",
+      "context": "at a café"
+    },
+    {
+      "phrase": "Un cappuccino e un cornetto.",
+      "context": "at a café"
+    },
+    {
+      "phrase": "Il conto, per favore.",
+      "context": "at a restaurant"
+    },
+    {
+      "phrase": "Posso avere il menu?",
+      "context": "at a restaurant"
+    },
+    {
+      "phrase": "Cosa mi consiglia?",
+      "context": "at a restaurant"
+    },
+    {
+      "phrase": "Sono vegetariano.",
+      "context": "dietary needs"
+    },
+    {
+      "phrase": "Ho un'allergia alle noci.",
+      "context": "dietary needs"
+    },
+    {
+      "phrase": "Era buonissimo!",
+      "context": "complimenting food"
+    },
+    {
+      "phrase": "Mi è piaciuto molto.",
+      "context": "expressing enjoyment"
+    },
+    {
+      "phrase": "Non mi piace il pesce.",
+      "context": "expressing dislike"
+    },
+    {
+      "phrase": "Dov'è il bagno?",
+      "context": "practical question"
+    },
+    {
+      "phrase": "Scusi, dov'è la stazione?",
+      "context": "asking directions"
+    },
+    {
+      "phrase": "È lontano da qui?",
+      "context": "asking directions"
+    },
+    {
+      "phrase": "Quanto tempo ci vuole?",
+      "context": "asking about time"
+    },
+    {
+      "phrase": "A che ora apre il museo?",
+      "context": "asking about schedules"
+    },
+    {
+      "phrase": "A che ora chiude?",
+      "context": "asking about schedules"
+    },
+    {
+      "phrase": "Gira a destra al semaforo.",
+      "context": "giving directions"
+    },
+    {
+      "phrase": "Vai dritto per due isolati.",
+      "context": "giving directions"
+    },
+    {
+      "phrase": "È sulla sinistra.",
+      "context": "giving directions"
+    },
+    {
+      "phrase": "Che tempo fa oggi?",
+      "context": "weather"
+    },
+    {
+      "phrase": "Fa molto caldo oggi.",
+      "context": "weather"
+    },
+    {
+      "phrase": "Piove da stamattina.",
+      "context": "weather"
+    },
+    {
+      "phrase": "Domani farà bel tempo.",
+      "context": "weather"
+    },
+    {
+      "phrase": "Ho bisogno di un ombrello.",
+      "context": "weather"
+    },
+    {
+      "phrase": "Come stai?",
+      "context": "greeting"
+    },
+    {
+      "phrase": "Sto bene, grazie, e tu?",
+      "context": "greeting"
+    },
+    {
+      "phrase": "Non sto molto bene oggi.",
+      "context": "health"
+    },
+    {
+      "phrase": "Mi fa male la testa.",
+      "context": "health"
+    },
+    {
+      "phrase": "Ho bisogno di una farmacia.",
+      "context": "health"
+    },
+    {
+      "phrase": "Che lavoro fai?",
+      "context": "work"
+    },
+    {
+      "phrase": "Lavoro da casa.",
+      "context": "work"
+    },
+    {
+      "phrase": "Sono programmatore.",
+      "context": "work"
+    },
+    {
+      "phrase": "Che cosa fai nel tempo libero?",
+      "context": "hobbies"
+    },
+    {
+      "phrase": "Mi piace leggere e cucinare.",
+      "context": "hobbies"
+    },
+    {
+      "phrase": "Gioco a calcio ogni sabato.",
+      "context": "hobbies"
+    },
+    {
+      "phrase": "Suono la chitarra da tre anni.",
+      "context": "hobbies"
+    },
+    {
+      "phrase": "Sto imparando l'italiano.",
+      "context": "language learning"
+    },
+    {
+      "phrase": "Puoi parlare più lentamente?",
+      "context": "language learning"
+    },
+    {
+      "phrase": "Non ho capito, puoi ripetere?",
+      "context": "language learning"
+    },
+    {
+      "phrase": "Come si dice in italiano?",
+      "context": "language learning"
+    },
+    {
+      "phrase": "Cosa significa questa parola?",
+      "context": "language learning"
+    },
+    {
+      "phrase": "Parlo un po' di italiano.",
+      "context": "language learning"
+    },
+    {
+      "phrase": "Parli inglese?",
+      "context": "language"
+    },
+    {
+      "phrase": "Vorrei prenotare un tavolo per due.",
+      "context": "reservations"
+    },
+    {
+      "phrase": "Avete una camera libera?",
+      "context": "hotel"
+    },
+    {
+      "phrase": "Per quante notti?",
+      "context": "hotel"
+    },
+    {
+      "phrase": "La colazione è inclusa?",
+      "context": "hotel"
+    },
+    {
+      "phrase": "C'è il wifi gratuito?",
+      "context": "hotel"
+    },
+    {
+      "phrase": "A che ora devo lasciare la camera?",
+      "context": "hotel"
+    },
+    {
+      "phrase": "Vorrei un biglietto di andata e ritorno.",
+      "context": "transportation"
+    },
+    {
+      "phrase": "Da quale binario parte il treno?",
+      "context": "transportation"
+    },
+    {
+      "phrase": "Il treno è in ritardo.",
+      "context": "transportation"
+    },
+    {
+      "phrase": "Devo cambiare treno?",
+      "context": "transportation"
+    },
+    {
+      "phrase": "Posso sedermi qui?",
+      "context": "polite requests"
+    },
+    {
+      "phrase": "Scusi, questo posto è libero?",
+      "context": "polite requests"
+    },
+    {
+      "phrase": "Mi scusi, mi può aiutare?",
+      "context": "asking for help"
+    },
+    {
+      "phrase": "Grazie mille, sei molto gentile.",
+      "context": "thanking"
+    },
+    {
+      "phrase": "Non c'è di che.",
+      "context": "responding to thanks"
+    },
+    {
+      "phrase": "Mi dispiace, non posso venire.",
+      "context": "apologizing"
+    },
+    {
+      "phrase": "Scusa il ritardo.",
+      "context": "apologizing"
+    },
+    {
+      "phrase": "Non fa niente.",
+      "context": "accepting apology"
+    },
+    {
+      "phrase": "Non ti preoccupare.",
+      "context": "reassuring"
+    },
+    {
+      "phrase": "Cosa fai stasera?",
+      "context": "making plans"
+    },
+    {
+      "phrase": "Ti va di uscire?",
+      "context": "making plans"
+    },
+    {
+      "phrase": "Ci vediamo domani.",
+      "context": "making plans"
+    },
+    {
+      "phrase": "Dove ci incontriamo?",
+      "context": "making plans"
+    },
+    {
+      "phrase": "A che ora?",
+      "context": "making plans"
+    },
+    {
+      "phrase": "Sono in ritardo, arrivo tra cinque minuti.",
+      "context": "running late"
+    },
+    {
+      "phrase": "Mi sono perso.",
+      "context": "being lost"
+    },
+    {
+      "phrase": "Puoi mandarmi la posizione?",
+      "context": "directions"
+    },
+    {
+      "phrase": "È la prima volta che vengo in Italia.",
+      "context": "travel"
+    },
+    {
+      "phrase": "L'Italia è bellissima.",
+      "context": "complimenting"
+    },
+    {
+      "phrase": "Mi piace molto questa città.",
+      "context": "expressing opinion"
+    },
+    {
+      "phrase": "Qual è il tuo piatto preferito?",
+      "context": "food"
+    },
+    {
+      "phrase": "Adoro la pasta.",
+      "context": "food"
+    },
+    {
+      "phrase": "Hai fratelli o sorelle?",
+      "context": "family"
+    },
+    {
+      "phrase": "Ho una sorella maggiore.",
+      "context": "family"
+    },
+    {
+      "phrase": "Sono sposato da cinque anni.",
+      "context": "family"
+    },
+    {
+      "phrase": "Come si chiama tua moglie?",
+      "context": "family"
+    },
+    {
+      "phrase": "Quanti anni hai?",
+      "context": "personal info"
+    },
+    {
+      "phrase": "Ho trent'anni.",
+      "context": "personal info"
+    },
+    {
+      "phrase": "Quando è il tuo compleanno?",
+      "context": "personal info"
+    },
+    {
+      "phrase": "Il mio compleanno è in maggio.",
+      "context": "personal info"
+    },
+    {
+      "phrase": "Che giorno è oggi?",
+      "context": "time"
+    },
+    {
+      "phrase": "Oggi è martedì.",
+      "context": "time"
+    },
+    {
+      "phrase": "Che ore sono?",
+      "context": "time"
+    },
+    {
+      "phrase": "Sono le tre e mezza.",
+      "context": "time"
+    },
+    {
+      "phrase": "È troppo presto.",
+      "context": "time"
+    },
+    {
+      "phrase": "È già tardi.",
+      "context": "time"
+    },
+    {
+      "phrase": "Sono stanco, vado a dormire.",
+      "context": "daily routine"
+    },
+    {
+      "phrase": "Mi sveglio alle sette.",
+      "context": "daily routine"
+    },
+    {
+      "phrase": "Faccio colazione a casa.",
+      "context": "daily routine"
+    }
+  ],
+  "german": [
+    {
+      "word": "die Entschuldigung",
+      "translation": "apology / excuse"
+    },
+    {
+      "word": "die Verabredung",
+      "translation": "appointment / date"
+    },
+    {
+      "word": "der Ausgang",
+      "translation": "exit"
+    },
+    {
+      "word": "der Eingang",
+      "translation": "entrance"
+    },
+    {
+      "word": "die Rechnung",
+      "translation": "bill / invoice"
+    },
+    {
+      "word": "die Ermäßigung",
+      "translation": "discount"
+    },
+    {
+      "word": "die Verspätung",
+      "translation": "delay"
+    },
+    {
+      "word": "der Anschluss",
+      "translation": "connection (train, etc.)"
+    },
+    {
+      "word": "die Auskunft",
+      "translation": "information"
+    },
+    {
+      "word": "der Fahrkartenautomat",
+      "translation": "ticket machine"
+    },
+    {
+      "word": "die Haltestelle",
+      "translation": "bus/tram stop"
+    },
+    {
+      "word": "der Bahnsteig",
+      "translation": "platform"
+    },
+    {
+      "word": "die Richtung",
+      "translation": "direction"
+    },
+    {
+      "word": "geradeaus",
+      "translation": "straight ahead"
+    },
+    {
+      "word": "die Kreuzung",
+      "translation": "intersection"
+    },
+    {
+      "word": "die Ampel",
+      "translation": "traffic light"
+    },
+    {
+      "word": "die Ecke",
+      "translation": "corner"
+    },
+    {
+      "word": "gegenüber",
+      "translation": "across from / opposite"
+    },
+    {
+      "word": "ungefähr",
+      "translation": "approximately"
+    },
+    {
+      "word": "eigentlich",
+      "translation": "actually / really"
+    },
+    {
+      "word": "übrigens",
+      "translation": "by the way"
+    },
+    {
+      "word": "trotzdem",
+      "translation": "nevertheless"
+    },
+    {
+      "word": "deshalb",
+      "translation": "therefore"
+    },
+    {
+      "word": "außerdem",
+      "translation": "besides / moreover"
+    },
+    {
+      "word": "allerdings",
+      "translation": "however / though"
+    },
+    {
+      "word": "bestimmt",
+      "translation": "definitely / certainly"
+    },
+    {
+      "word": "wahrscheinlich",
+      "translation": "probably"
+    },
+    {
+      "word": "möglicherweise",
+      "translation": "possibly"
+    },
+    {
+      "word": "vielleicht",
+      "translation": "maybe / perhaps"
+    },
+    {
+      "word": "unbedingt",
+      "translation": "absolutely / definitely"
+    },
+    {
+      "word": "meistens",
+      "translation": "mostly / usually"
+    },
+    {
+      "word": "manchmal",
+      "translation": "sometimes"
+    },
+    {
+      "word": "selten",
+      "translation": "rarely"
+    },
+    {
+      "word": "plötzlich",
+      "translation": "suddenly"
+    },
+    {
+      "word": "endlich",
+      "translation": "finally"
+    },
+    {
+      "word": "sofort",
+      "translation": "immediately"
+    },
+    {
+      "word": "bald",
+      "translation": "soon"
+    },
+    {
+      "word": "kürzlich",
+      "translation": "recently"
+    },
+    {
+      "word": "vorher",
+      "translation": "before / previously"
+    },
+    {
+      "word": "nachher",
+      "translation": "afterwards"
+    },
+    {
+      "word": "bereits",
+      "translation": "already"
+    },
+    {
+      "word": "noch",
+      "translation": "still / yet"
+    },
+    {
+      "word": "schon",
+      "translation": "already"
+    },
+    {
+      "word": "gerade",
+      "translation": "just now / right now"
+    },
+    {
+      "word": "nötig",
+      "translation": "necessary"
+    },
+    {
+      "word": "wichtig",
+      "translation": "important"
+    },
+    {
+      "word": "dringend",
+      "translation": "urgent"
+    },
+    {
+      "word": "möglich",
+      "translation": "possible"
+    },
+    {
+      "word": "unmöglich",
+      "translation": "impossible"
+    },
+    {
+      "word": "einfach",
+      "translation": "simple / easy"
+    },
+    {
+      "word": "schwierig",
+      "translation": "difficult"
+    },
+    {
+      "word": "gefährlich",
+      "translation": "dangerous"
+    },
+    {
+      "word": "sicher",
+      "translation": "safe / certain"
+    },
+    {
+      "word": "kostenlos",
+      "translation": "free (no cost)"
+    },
+    {
+      "word": "günstig",
+      "translation": "cheap / affordable"
+    },
+    {
+      "word": "teuer",
+      "translation": "expensive"
+    },
+    {
+      "word": "lecker",
+      "translation": "delicious"
+    },
+    {
+      "word": "satt",
+      "translation": "full (not hungry)"
+    },
+    {
+      "word": "hungrig",
+      "translation": "hungry"
+    },
+    {
+      "word": "durstig",
+      "translation": "thirsty"
+    },
+    {
+      "word": "müde",
+      "translation": "tired"
+    },
+    {
+      "word": "wach",
+      "translation": "awake"
+    },
+    {
+      "word": "beschäftigt",
+      "translation": "busy"
+    },
+    {
+      "word": "verfügbar",
+      "translation": "available"
+    },
+    {
+      "word": "fertig",
+      "translation": "finished / ready"
+    },
+    {
+      "word": "bereit",
+      "translation": "ready / prepared"
+    },
+    {
+      "word": "kaputt",
+      "translation": "broken"
+    },
+    {
+      "word": "schmutzig",
+      "translation": "dirty"
+    },
+    {
+      "word": "sauber",
+      "translation": "clean"
+    },
+    {
+      "word": "laut",
+      "translation": "loud"
+    },
+    {
+      "word": "leise",
+      "translation": "quiet"
+    },
+    {
+      "word": "langsam",
+      "translation": "slow"
+    },
+    {
+      "word": "schnell",
+      "translation": "fast"
+    },
+    {
+      "word": "früh",
+      "translation": "early"
+    },
+    {
+      "word": "spät",
+      "translation": "late"
+    },
+    {
+      "word": "pünktlich",
+      "translation": "on time / punctual"
+    },
+    {
+      "word": "brauchen",
+      "translation": "to need"
+    },
+    {
+      "word": "bekommen",
+      "translation": "to get / receive"
+    },
+    {
+      "word": "versuchen",
+      "translation": "to try"
+    },
+    {
+      "word": "vergessen",
+      "translation": "to forget"
+    },
+    {
+      "word": "erinnern",
+      "translation": "to remember"
+    },
+    {
+      "word": "verstehen",
+      "translation": "to understand"
+    },
+    {
+      "word": "erklären",
+      "translation": "to explain"
+    },
+    {
+      "word": "bedeuten",
+      "translation": "to mean"
+    },
+    {
+      "word": "wissen",
+      "translation": "to know (facts)"
+    },
+    {
+      "word": "kennen",
+      "translation": "to know (people/places)"
+    },
+    {
+      "word": "glauben",
+      "translation": "to believe / think"
+    },
+    {
+      "word": "meinen",
+      "translation": "to mean / think"
+    },
+    {
+      "word": "hoffen",
+      "translation": "to hope"
+    },
+    {
+      "word": "wünschen",
+      "translation": "to wish"
+    },
+    {
+      "word": "freuen",
+      "translation": "to be glad (sich freuen)"
+    },
+    {
+      "word": "ärgern",
+      "translation": "to annoy (sich ärgern)"
+    },
+    {
+      "word": "entscheiden",
+      "translation": "to decide"
+    },
+    {
+      "word": "ändern",
+      "translation": "to change"
+    },
+    {
+      "word": "verbessern",
+      "translation": "to improve"
+    },
+    {
+      "word": "benutzen",
+      "translation": "to use"
+    },
+    {
+      "word": "bezahlen",
+      "translation": "to pay"
+    },
+    {
+      "word": "bestellen",
+      "translation": "to order"
+    },
+    {
+      "word": "empfehlen",
+      "translation": "to recommend"
+    },
+    {
+      "word": "vorschlagen",
+      "translation": "to suggest"
+    }
+  ]
+}
