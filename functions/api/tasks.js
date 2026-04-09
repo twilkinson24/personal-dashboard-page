@@ -28,7 +28,7 @@ export async function onRequest(context) {
               equals: false,
             },
           },
-          page_size: 3,
+          page_size: 10,
         }),
       }
     );
