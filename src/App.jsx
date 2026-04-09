@@ -5,6 +5,7 @@ import { WeatherCard } from './components/WeatherCard'
 import { WorldClocksCard } from './components/WorldClocksCard'
 import { PhrasesCard } from './components/PhrasesCard'
 import { YankeesCard } from './components/YankeesCard'
+import { NotionTasksCard } from './components/NotionTasksCard'
 
 function Header() {
   const today = new Intl.DateTimeFormat('en-US', {
@@ -40,11 +41,16 @@ export default function App() {
         </div>
 
         {/* Bottom row: exchange rate, crypto, stocks, Yankees */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5 mb-5">
           <ExchangeRateCard />
           <CryptoCard />
           <StocksCard />
           <YankeesCard />
+        </div>
+
+        {/* Notion priorities */}
+        <div>
+          <NotionTasksCard />
         </div>
       </div>
     </div>
