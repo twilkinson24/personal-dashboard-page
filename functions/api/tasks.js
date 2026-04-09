@@ -26,16 +26,34 @@ export async function onRequest(context) {
 
     const data = await response.json();
 
-    const tasks = data.results.map((page) => ({
-      id: page.id,
-      task: page.properties.Task.title[0]?.plain_text || "Untitled",
-      client: page.properties.Client.select?.name || null,
-    }));
+    if (!response.ok) {
+      return Response.json({ error: data.message || "Notion API error", code: response.status }, { status: 502 });
+    }
 
-    return Response.json(tasks, {
+    if (!data.results) {
+      return Response.json({ error: "Unexpected response", debug: data }, { status: 502 });
+    }
+
+    // Return raw property keys from first result for debugging
+    if (data.results.length > 0) {
+      const first = data.results[0];
+      const propKeys = Object.keys(first.properties);
+      // Temporarily include property names to help debug mapping
+      const tasks = data.results.map((page) => ({
+        id: page.id,
+        task: page.properties.Task?.title?.[0]?.plain_text || "Untitled",
+        client: page.properties.Client?.select?.name || null,
+      }));
+
+      return Response.json({ tasks, _debug_props: propKeys }, {
+        headers: { "Content-Type": "application/json" },
+      });
+    }
+
+    return Response.json({ tasks: [], _debug_props: [] }, {
       headers: { "Content-Type": "application/json" },
     });
   } catch (error) {
-    return Response.json({ error: "Failed to fetch tasks" }, { status: 500 });
+    return Response.json({ error: error.message }, { status: 500 });
   }
 }

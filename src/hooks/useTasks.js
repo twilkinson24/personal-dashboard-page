@@ -14,7 +14,7 @@ export function useTasks() {
       if (!res.ok) throw new Error(`HTTP ${res.status}`)
       const json = await res.json()
       if (json.error) throw new Error(json.error)
-      setData(json)
+      setData(json.tasks ?? json)
     } catch (err) {
       setError(err.message)
     } finally {
